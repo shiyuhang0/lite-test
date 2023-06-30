@@ -1,0 +1,7 @@
+dist-browser
+tsconfig.build.tsbuildinfo
+.db
+.env
+.vercel
+page-dist
+.cache
